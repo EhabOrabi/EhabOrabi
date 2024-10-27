@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Ehab Orabi
-- 👀 I’m interested in Testing and automation
-- 🌱 I’m currently learning Devops
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - DM Linkedin
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Ehabo94/Ehabo94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @Ehab Orabi
+👀 I’m interested in Testing, Automation, and DevOps
+🌱 Currently working on expanding my DevOps projects
+💞️ I’m looking to collaborate on innovative automation and DevOps projects
+📫 How to reach me - DM on LinkedIn
+😄 Pronouns: He/Him
+⚡ Fun fact: I’m always on the lookout for new tools and best practices to optimize workflows!
